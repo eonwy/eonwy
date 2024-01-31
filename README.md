@@ -3,7 +3,7 @@
 ## Hi
 **eonwy**
 <br>
-ookmyung Women's University Economics & IT Engineering
+Sookmyung Women's University Economics & IT Engineering
 
 ## 🛠️ Tech Stacks
 - **Prototyping**
