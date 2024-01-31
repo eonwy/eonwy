@@ -21,9 +21,9 @@ ookmyung Women's University Economics & IT Engineering
   ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white)
 
 ## 🧑‍💻 Contact me
-- [Tistory]![Tistory](https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white)
-- [Notion]![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white)
-- [Gmail]![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)
+- ![Tistory](https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white)
+- ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white)
+- ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)
 
 ## 🏅 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eonwy&bg_color=180,b2e193,00000000&title_color=363a36&text_color=363a36)
