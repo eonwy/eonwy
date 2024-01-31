@@ -27,7 +27,7 @@ Sookmyung Women's University Economics & IT Engineering
   ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white)
 
 ## 🧑‍💻 Contact me
-![Tistory](https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white)
+(https://eonwy.tistory.com/)![Tistory](https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)
 
