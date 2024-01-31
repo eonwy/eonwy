@@ -14,7 +14,7 @@ Sookmyung Women's University Economics & IT Engineering
   ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
   ![Nest.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Nest.js&logoColor=white)
-  ![Typescript](https://img.shields.io/badge/typescript-?style=plastic&logo=typescript&logoColor=%233178C6)
+  ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white)
 - **Data**
   <br>
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
