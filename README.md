@@ -23,7 +23,7 @@
   ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white)
 <br>
 
-**Project**
+**💻 Project**
 - [LivingMate](https://github.com/LivingMate/LivingMate-Server) - 우리들의 공동생활 퍼실리테이터 (졸업프로젝트)
 
 **🧑‍💻 Link**
