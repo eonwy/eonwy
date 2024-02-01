@@ -16,7 +16,9 @@
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
   ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/numpy-#013243?style=plastic&logo=numpy&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243?style=plastic&logo=numpy&logoColor=white)
+  https://img.shields.io/badge/numpy?style=plastic&logo=numpy&logoColor=white&labelColor=%23013243
+
 - Languages
   <br>
   ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
