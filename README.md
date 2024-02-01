@@ -31,7 +31,4 @@ Sookmyung Women's University Economics & IT Engineering
 ## 🧑‍💻 Contact me
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=https://eonwy.tistory.com/)](https://eonwy.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:yeawon.kim0521@gmail.com)](mailto:yeawon.kim0521@gmail.com)
-<br>
 
-## 🏅 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eonwy&bg_color=180,b2e193,00000000&title_color=363a36&text_color=363a36)
