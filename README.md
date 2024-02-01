@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; border-top: 1px solid black;"></div>
-  <span style="margin: 0 10px;">Kim YeaWon</span>
+  <span style="margin: 0 10px;">Kim YeaWon Sookmyung Women's University Economics & IT Engineering</span>
   <div style="flex: 1; border-top: 1px solid black;"></div>
 </div>
 
