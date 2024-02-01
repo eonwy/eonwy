@@ -24,7 +24,7 @@
 <br>
 
 **Project**
-- LivingMate - 우리들의 공동생활 퍼실리테이터(졸업프로젝트)
+- [LivingMate](https://github.com/LivingMate/LivingMate-Server) - 우리들의 공동생활 퍼실리테이터 (졸업프로젝트)
 
 **🧑‍💻 Link**
 <br><br>
