@@ -17,7 +17,7 @@
   ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243?style=plastic&logo=numpy&logoColor=white)
-  https://img.shields.io/badge/numpy?style=plastic&logo=numpy&logoColor=white&labelColor=%23013243
+  ![pandas](https://img.shields.io/badge/pandas-%23150458?style=plastic&logo=pandas&logoColor=white)
 
 - Languages
   <br>
