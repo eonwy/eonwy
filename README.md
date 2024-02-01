@@ -1,5 +1,4 @@
-> **Kim Yea Won**
-> Sookmyung Women's University Economics & IT Engineering
+> Kim Yea Won <br> Sookmyung Women's University Economics & IT Engineering
 <br>
 
 **🛠️ Tech Stacks**
