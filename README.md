@@ -10,17 +10,17 @@
   ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
   ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=plastic&logo=Nest.js&logoColor=white)
-  ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white)
+  ![express](https://img.shields.io/badge/express-%23000000?style=plastic&logo=express&logoColor=white)
 - Data
   <br>
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
   ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243?style=plastic&logo=numpy&logoColor=white)
   ![pandas](https://img.shields.io/badge/pandas-%23150458?style=plastic&logo=pandas&logoColor=white)
 
 - Languages
   <br>
+  ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white)
