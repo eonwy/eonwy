@@ -4,7 +4,7 @@
 Sookmyung Women's University Economics & IT Engineering
 <br>
 
-🛠️ Tech Stacks
+****🛠️ Tech Stacks****
 - **Prototyping**
   <br>
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white)
