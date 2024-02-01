@@ -23,6 +23,9 @@
   ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white)
 <br>
 
+**Project**
+- LivingMate - 우리들의 공동생활 퍼실리테이터(졸업프로젝트)
+
 **🧑‍💻 Link**
 <br><br>
 [![Notion](https://img.shields.io/badge/resume-000000?style=plastic&logo=Notion&logoColor=white)](https://agreeable-music-390.notion.site/Yeawon-Kim-1b07e2574bbe4bc2b1db0ea2da8baf49?pvs=4)
