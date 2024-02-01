@@ -1,12 +1,10 @@
-## Hi there 👋
-
 **Kim Yea Won**
 [![Notion](https://img.shields.io/badge/resume-000000?style=plastic&logo=Notion&logoColor=white)](https://agreeable-music-390.notion.site/Yeawon-Kim-1b07e2574bbe4bc2b1db0ea2da8baf49?pvs=4)
 <br>
 Sookmyung Women's University Economics & IT Engineering
 <br>
 
-## 🛠️ Tech Stacks
+🛠️ Tech Stacks
 - **Prototyping**
   <br>
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white)
