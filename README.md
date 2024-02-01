@@ -25,6 +25,7 @@
 
 **💻 Project**
 - [LivingMate](https://github.com/LivingMate/LivingMate-Server) - 우리들의 공동생활 퍼실리테이터 (졸업프로젝트)
+- [Seoul_ParkinLot](https://github.com/eonwy/parkinglot) - 서울시 주차난 도식화 (서울시 공공데이터 활용 경진대회)
 
 **🧑‍💻 Link**
 <br><br>
