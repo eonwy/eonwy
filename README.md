@@ -31,6 +31,11 @@
 - [LivingMate](https://github.com/LivingMate/LivingMate-Server) - 우리들의 공동생활 퍼실리테이터 (졸업프로젝트)
 - [FaceEmotionRecognition](https://github.com/eonwy/FaceEmotionRecognition.git) - 사람의 얼굴 표정으로 감정을 분석하다 (팀프로젝트)
 - [Seoul_ParkinLot](https://github.com/eonwy/parkinglot) - 서울시 주차난 도식화 (서울시 공공데이터 활용 경진대회)
+<br>
+
+**🧳 Experience**
+- SOLUX 29th BackEnd Part (2024.03 ~ )
+<br>
 
 **🧑‍💻 Link**
 <br><br>
