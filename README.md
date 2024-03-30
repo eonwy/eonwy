@@ -10,7 +10,7 @@
   <br>
   ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
-  ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=plastic&logo=Nest.js&logoColor=white)
+  <!-- ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=plastic&logo=Nest.js&logoColor=white) -->
   ![express](https://img.shields.io/badge/express-%23000000?style=plastic&logo=express&logoColor=white)
 - Data
   <br>
