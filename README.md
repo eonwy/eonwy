@@ -12,8 +12,9 @@
   ![express](https://img.shields.io/badge/express-%23000000?style=plastic&logo=express&logoColor=white)
   <!--![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=plastic&logo=Nest.js&logoColor=white)-->
 - ORM
+  <br>
   ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white)
-  ![Mongoose](https://img.shields.io/badge/mongoose-#880000?style=plastic&logo=mongoose&logoColor=white)
+  ![Mongoose](https://img.shields.io/badge/Mongoose-#880000?style=plastic&logo=Mongoose&logoColor=white)
 - Data
   <br>
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
