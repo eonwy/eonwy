@@ -17,6 +17,7 @@
   ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=plastic&logo=Mongoose&logoColor=white)
 - Data
   <br>
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248style=plastic&logo=MongoDB&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
   ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243?style=plastic&logo=numpy&logoColor=white)
