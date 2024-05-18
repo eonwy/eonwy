@@ -14,7 +14,7 @@
 - ORM
   <br>
   ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white)
-  ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=plastic&logo=Mongoose&logoColor=white)
+  ![Mongoose](https://img.shields.io/badge/Mongoose-F04D35?style=plastic&logo=Mongoose&logoColor=white)
 - Data
   <br>
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white)
