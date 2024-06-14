@@ -28,12 +28,11 @@
   ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white)
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
   ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white)
 <br>
 
 **💻 Project**
-- [Lychee](https://github.com/TeamLychee/Lychee-Server) - 함께 사는 당신들의 삶의 질을 높여드려요 ![insta](https://img.shields.io/badge/insta-23E4405F?style=plastic&logo=insta&logoColor=white
+- [Lychee](https://github.com/TeamLychee/Lychee-Server) - 함께 사는 당신들의 삶의 질을 높여드려요 ![Instagram](https://img.shields.io/badge/insta-23E4405F?style=plastic&logo=insta&logoColor=white
 ) 🔧*작업중*
 - [Musically](https://github.com/music-ally/music-ally-server) - 뮤지컬 정보 습득 및 소통 웹사이트 🔧*작업중*
 - [LivingMate](https://github.com/LivingMate/LivingMate-Server) - 우리들의 공동생활 퍼실리테이터 (졸업프로젝트)
