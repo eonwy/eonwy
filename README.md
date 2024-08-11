@@ -43,7 +43,7 @@
 
 **🧳 Experience**
 - **Mintech Intership** (2024.07 ~ )
-- **SOLUX 29th BackEnd Part** (2024.03 ~ )
+- **SOLUX 29th BackEnd Part** (2024.03 ~ 2024.09)
 <br>
 
 **🧑‍💻 Link**
