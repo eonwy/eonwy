@@ -32,7 +32,7 @@
 <br>
 
 **💻 Project**
-- [one-peice mbti](https://github.com/onepieceMBTI/mbti-svelte) - 나와 가장 비슷한 원피스 캐릭터는? 🔧*작업중*
+- [one-peice MBTI](https://github.com/onepieceMBTI/mbti-svelte) - 나와 가장 비슷한 원피스 캐릭터는? 🔧*작업중*
 - [Lychee](https://github.com/TeamLychee/Lychee-Server) - 함께 사는 당신들의 삶의 질을 높여드려요
   [![Instagram](https://img.shields.io/badge/Insta-E4405F?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/lychee0fficial/) 🔧*작업중*
 - [Musically](https://github.com/music-ally/music-ally-server) - 뮤지컬 정보 습득 및 소통 웹사이트 (29th SOLUX 프로젝트)
