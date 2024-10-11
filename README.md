@@ -28,7 +28,7 @@
 
 - Languages
   <br>
-  ![Javascript](https://img.shields.io/badge/javsscript-F7DF1E?style=plastic&logo=javascript&logoColor=yellow)
+  ![Javascript](https://img.shields.io/badge/javsscript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
   ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white)
