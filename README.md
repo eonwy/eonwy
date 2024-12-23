@@ -10,7 +10,7 @@
   <br>
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
   ![express](https://img.shields.io/badge/express-%23000000?style=plastic&logo=express&logoColor=white)
-  ![Sveltekit](https://img.shields.io/badge/Svelte-FF3E00?style=plastic&logo=Sveltekit&logoColor=white)
+  ![Sveltekit](https://img.shields.io/badge/Svelte-FF3E00?style=plastic&logo=Svelte&logoColor=white)
 - ORM
   <br>
   ![Mongoose](https://img.shields.io/badge/Mongoose-F04D35?style=plastic&logo=Mongoose&logoColor=white)
