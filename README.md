@@ -13,13 +13,15 @@
   ![Sveltekit](https://img.shields.io/badge/Svelte-FF3E00?style=plastic&logo=Svelte&logoColor=white)
 - ORM
   <br>
-  ![Mongoose](https://img.shields.io/badge/Mongoose-F04D35?style=plastic&logo=Mongoose&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white)
+  ![Mongoose](https://img.shields.io/badge/Mongoose-F04D35?style=plastic&logo=Mongoose&logoColor=white)
+  ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=plastic&logo=TypeORM&logoColor=white)
 - Client
   <br>
   ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=plastic&logo=Svelte&logoColor=white)
 - Data
   <br>
+  ![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=plastic&logo=postgresql&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
@@ -37,9 +39,6 @@
 <br>
 
 **💻 Project**
-- [one-peice MBTI](https://github.com/onepieceMBTI/mbti-svelte) - 나와 가장 비슷한 원피스 캐릭터는? 🔧*작업중*
-- [Lychee](https://github.com/TeamLychee/Lychee-Server) - 함께 사는 당신들의 삶의 질을 높여드려요
-  [![Instagram](https://img.shields.io/badge/Insta-E4405F?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/lychee0fficial/) 🔧*작업중*
 - [Musically](https://github.com/music-ally/music-ally-server) - 뮤지컬 정보 습득 및 소통 웹사이트 (29th SOLUX 프로젝트)
 - [LivingMate](https://github.com/LivingMate/LivingMate-Server) - 우리들의 공동생활 퍼실리테이터 (졸업프로젝트)
 - [FaceEmotionRecognition](https://github.com/eonwy/FaceEmotionRecognition.git) - 사람의 얼굴 표정으로 감정을 분석하다 (팀프로젝트)
