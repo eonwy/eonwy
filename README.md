@@ -39,13 +39,14 @@
 <br>
 
 **💻 Project**
-- [Musically](https://github.com/music-ally/music-ally-server) - 뮤지컬 정보 습득 및 소통 웹사이트 (29th SOLUX 프로젝트)
-- [LivingMate](https://github.com/LivingMate/LivingMate-Server) - 우리들의 공동생활 퍼실리테이터 (졸업프로젝트)
-- [FaceEmotionRecognition](https://github.com/eonwy/FaceEmotionRecognition.git) - 사람의 얼굴 표정으로 감정을 분석하다 (팀프로젝트)
+- [Musically](https://github.com/music-ally/music-ally-server) - 뮤지컬 정보 습득 및 소통 웹사이트 (29th SOLUX 프로젝트) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
+- [LivingMate](https://github.com/LivingMate/LivingMate-Server) - 우리들의 공동생활 퍼실리테이터 (졸업프로젝트) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
+- [FaceEmotionRecognition](https://github.com/eonwy/FaceEmotionRecognition.git) - 사람의 얼굴 표정으로 감정을 분석하다 (팀프로젝트) 
 - [Seoul_ParkinLot](https://github.com/eonwy/parkinglot) - 서울시 주차난 도식화 (서울시 공공데이터 활용 경진대회)
 <br>
 
-**🧳 Experience**
+**🧩 Experience**
+- **Programmers Devcourse 5th Backend Part** (2025.03 ~)
 - **Mintech Intership** (2024.07 ~ 2024.12)
 - **SOLUX 29th BackEnd Part** (2024.03 ~ 2024.09)
 <br>
