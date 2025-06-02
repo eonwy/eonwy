@@ -3,23 +3,33 @@
 <br>
 
 **🛠️ Tech Stacks**
-- Prototyping
+- Prototyping  
   <br>
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white)
-- Server
+
+- Server  
   <br>
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
   ![express](https://img.shields.io/badge/express-%23000000?style=plastic&logo=express&logoColor=white)
   ![Sveltekit](https://img.shields.io/badge/Svelte-FF3E00?style=plastic&logo=Svelte&logoColor=white)
-- ORM
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white)
+
+- ORM  
   <br>
   ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white)
   ![Mongoose](https://img.shields.io/badge/Mongoose-F04D35?style=plastic&logo=Mongoose&logoColor=white)
   ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=plastic&logo=TypeORM&logoColor=white)
-- Client
+  ![JPA](https://img.shields.io/badge/JPA-007396?style=plastic)
+  ![MyBatis](https://img.shields.io/badge/MyBatis-005B9F?style=plastic)
+  ![QueryDSL](https://img.shields.io/badge/QueryDSL-6C33B9?style=plastic)
+
+- Client  
   <br>
   ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=plastic&logo=Svelte&logoColor=white)
-- Data
+  ![JSP](https://img.shields.io/badge/JSP-0074A6?style=plastic)
+  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=Thymeleaf&logoColor=white)
+
+- Data  
   <br>
   ![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=plastic&logo=postgresql&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white)
@@ -29,15 +39,15 @@
   ![NumPy](https://img.shields.io/badge/numpy-%23013243?style=plastic&logo=numpy&logoColor=white)
   ![pandas](https://img.shields.io/badge/pandas-%23150458?style=plastic&logo=pandas&logoColor=white)
 
-- Languages
+- Languages  
   <br>
   ![Javascript](https://img.shields.io/badge/javsscript-F7DF1E?style=plastic&logo=javascript&logoColor=white)
   ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white)
-<br>
-
+  <br>
+  
 **💻 Project**
 - [Musically](https://github.com/music-ally/music-ally-server) - 뮤지컬 정보 습득 및 소통 웹사이트 (29th SOLUX 프로젝트) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
 - [LivingMate](https://github.com/LivingMate/LivingMate-Server) - 우리들의 공동생활 퍼실리테이터 (졸업프로젝트) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
