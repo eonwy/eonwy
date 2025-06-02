@@ -49,14 +49,10 @@
   <br>
   
 **💻 Project**
-- [HARU](https://github.com/eonwy/NBE5-6-2-TEAM07) – A web service that allows users to write daily journals and interact with an AI character  
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white)
-- [Grids&Circle](https://github.com/eonwy/NBE5-6-1-Team07) – A coffee bean order management system  
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white)
-- [Musically](https://github.com/music-ally/music-ally-server) – A web platform for discovering and discussing musicals (29th SOLUX project)  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
-- [LivingMate](https://github.com/LivingMate/LivingMate-Server) – A group living facilitator for shared household management (Graduation project)  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
+- [HARU](https://github.com/eonwy/NBE5-6-2-TEAM07) – A web service that allows users to write daily journals and interact with an AI character ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white)
+- [Grids&Circle](https://github.com/eonwy/NBE5-6-1-Team07) – A coffee bean order management system ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white)
+- [Musically](https://github.com/music-ally/music-ally-server) – A web platform for discovering and discussing musicals (29th SOLUX project) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
+- [LivingMate](https://github.com/LivingMate/LivingMate-Server) – A group living facilitator for shared household management (Graduation project) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
 - [FaceEmotionRecognition](https://github.com/eonwy/FaceEmotionRecognition.git) – A team project that analyzes facial expressions to detect human emotions
 - [Seoul_ParkingLot](https://github.com/eonwy/parkinglot) – A project visualizing parking congestion in Seoul using public data (Data Utilization Competition)
 
