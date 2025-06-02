@@ -31,28 +31,35 @@
 
 - Data  
   <br>
-  ![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=plastic&logo=postgresql&logoColor=white)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white)
+  ![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=plastic&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white)
   ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243?style=plastic&logo=numpy&logoColor=white)
   ![pandas](https://img.shields.io/badge/pandas-%23150458?style=plastic&logo=pandas&logoColor=white)
 
 - Languages  
   <br>
+  ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white)
   ![Javascript](https://img.shields.io/badge/javsscript-F7DF1E?style=plastic&logo=javascript&logoColor=white)
   ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white)
   <br>
   
 **💻 Project**
-- [Musically](https://github.com/music-ally/music-ally-server) - 뮤지컬 정보 습득 및 소통 웹사이트 (29th SOLUX 프로젝트) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
-- [LivingMate](https://github.com/LivingMate/LivingMate-Server) - 우리들의 공동생활 퍼실리테이터 (졸업프로젝트) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
-- [FaceEmotionRecognition](https://github.com/eonwy/FaceEmotionRecognition.git) - 사람의 얼굴 표정으로 감정을 분석하다 (팀프로젝트) 
-- [Seoul_ParkinLot](https://github.com/eonwy/parkinglot) - 서울시 주차난 도식화 (서울시 공공데이터 활용 경진대회)
+- [HARU](https://github.com/eonwy/NBE5-6-2-TEAM07) – A web service that allows users to write daily journals and interact with an AI character  
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white)
+- [Grids&Circle](https://github.com/eonwy/NBE5-6-1-Team07) – A coffee bean order management system  
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white)
+- [Musically](https://github.com/music-ally/music-ally-server) – A web platform for discovering and discussing musicals (29th SOLUX project)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
+- [LivingMate](https://github.com/LivingMate/LivingMate-Server) – A group living facilitator for shared household management (Graduation project)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
+- [FaceEmotionRecognition](https://github.com/eonwy/FaceEmotionRecognition.git) – A team project that analyzes facial expressions to detect human emotions
+- [Seoul_ParkingLot](https://github.com/eonwy/parkinglot) – A project visualizing parking congestion in Seoul using public data (Data Utilization Competition)
+
 <br>
 
 **🧩 Experience**
